@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleSocial</string>
+    <string name="haslo">Hasło</string>
+    <string name="zarejestruj">Zarejestruj</string>
+    <string name="zaloguj">Zaloguj</string>
+    <string name="nazwa">Nazwa użytkownika</string>
+    <string name="polaczenie">Połączenie z bazą danych</string>
+    <string name="regulamin">Aby zobaczyć regulamin serwisu SimpleSocial naciśnij <a href="https://krzysieksiemv.github.io/regulamin_ssocial.txt">tutaj</a></string>
+</resources>

@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="Nexus 5X" />
+        <device id="pixel_2" />
+        <device id="pixel" />
+        <device id="automotive_1024p_landscape" />
+        <device id="Nexus 7 2013" />
+        <device id="Nexus 10" />
+        <device id="pixel_4_xl" />
+        <device id="Nexus 7" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="651ab0a0-4b7f-46de-9b4e-3e4caa19420d" name="Default Changelist" comment="06.02.2022 23:02 - Zmiana wyglądu modyfikatora postów oraz małe naprawy">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/GetEveryData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/GetMeImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/refresh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/warning.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/default_avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_group.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/EditPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/EditPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/EditProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/EditProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/Helpers.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/Helpers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/Homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/Homepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/NewPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/NewPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/PostsManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/PostsManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/Registration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/ThePost.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pl/krzysiek/simplesocial/ThePost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_post.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_post.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_registration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_registration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/homepage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/homepage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/thepost.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/thepost.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SimpleSocial" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SimpleSocial" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SimpleSocial" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="C:\Users\krzys\keys\SimpleSocialKey.jks" />
+    <option name="KEY_ALIAS" value="UploadTo" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="22YsJhtU3N8dmdoitEaEgvA26oC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BundleExportedModule" value="SimpleSocial.app" />
+    <property name="ExportApk.ApkPath" value="D:\SimpleSocial\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ResourceManagerPrefKey.ResourceType" value="DRAWABLE" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ScreenshotViewer.SavePath" value="$USER_HOME$/Desktop" />
+    <property name="ToolWindowEmulator.ShowToolbar" value="false" />
+    <property name="android-custom-viewY:/Projekty/Java/SimpleSocial/app/src/main/java/pl/krzysiek/simplesocial/layout_main.java_SELECTED" value="layout_main" />
+    <property name="android-custom-viewY:/Projekty/Java/SimpleSocial/app/src/main/java/pl/krzysiek/simplesocial/layout_main.java_layout_main_DIMENSIONS" value="1080&#10;1920" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="com.android.tools.idea.emulator.frame.visible" value="false" />
+    <property name="com.android.tools.idea.emulator.zoom.toolbar.visible" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1642879677156" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="BUILD_VARIANTS_TAB" value="Build Types" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-40954462">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+    <key name="android.template.-2099691476">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+    <key name="android.template.-1505184308">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+    <key name="android.template.700340892">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="android.template.-1848540824">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+    <key name="android.template.2014763333">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+    <key name="android.template.-777873469">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+    <key name="android.template.-274575362">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+    <key name="android.template.815302202">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+    <key name="android.template.1215593198">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+    <key name="android.template.-1053973135">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+    <key name="android.template.954788924">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+    <key name="android.template.1252638752">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+    <key name="android.template.-496997852">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+    <key name="android.template.1129290059">
+      <recent name="pl.krzysiek.simplesocial" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.App">
+    <configuration name="App" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="SimpleSocial.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Callstack Sample" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="pl.krzysiek.simplesocial.Main" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android App" nameIsGenerated="true">
+      <module name="SimpleSocial.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="true" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Callstack Sample" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="SimpleSocial.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.App" />
+      <item itemvalue="Android App.Unnamed" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="false" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="651ab0a0-4b7f-46de-9b4e-3e4caa19420d" name="Default Changelist" comment="" />
+      <created>1640025785057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640025785057</updated>
+    </task>
+    <task id="LOCAL-00001" summary="30.01.2022 00:00 - Usunięto parę bugów, do naprawy wiele błędów... Dokładnie z połączeniami z bazą danych/SQL oraz dodatkowymi Activity.">
+      <created>1643497221886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643497221886</updated>
+    </task>
+    <task id="LOCAL-00002" summary="06.02.2022 22:42 - Dopracowano system modyfikacji komentarzy. Parę poprawek oraz wykonanie uniwersalnego generowania postów bądź komentarzy.">
+      <created>1644183847154</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644183847154</updated>
+    </task>
+    <task id="LOCAL-00003" summary="06.02.2022 23:02 - Zmiana wyglądu modyfikatora postów oraz małe naprawy">
+      <created>1644184966720</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644184966720</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="30.01.2022 00:00 - Usunięto parę bugów, do naprawy wiele błędów... Dokładnie z połączeniami z bazą danych/SQL oraz dodatkowymi Activity." />
+    <MESSAGE value="06.02.2022 22:42 - Dopracowano system modyfikacji komentarzy. Parę poprawek oraz wykonanie uniwersalnego generowania postów bądź komentarzy." />
+    <MESSAGE value="06.02.2022 23:02 - Zmiana wyglądu modyfikatora postów oraz małe naprawy" />
+    <option name="LAST_COMMIT_MESSAGE" value="06.02.2022 23:02 - Zmiana wyglądu modyfikatora postów oraz małe naprawy" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
